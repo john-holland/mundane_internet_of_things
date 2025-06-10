@@ -106,4 +106,7 @@ npm run build:web
 
 ## License
 
-MIT License - see LICENSE file for details 
+MIT License - see LICENSE file for details
+
+**Credits:**
+This project benefited from AI code assistance by [Cursor](https://www.cursor.com/). 
